@@ -1,4 +1,6 @@
-### Hi there 👋
+### A college student, wishing to be an Engineer! 😋
+
+[![THUzxj's github stats](https://github-readme-stats.vercel.app/api?username=THUzxj)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **THUzxj/THUzxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
